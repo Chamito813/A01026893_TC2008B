@@ -32,10 +32,10 @@
   <p align="center">
     Este sera mi repositorio de GitHub para subir todas las actividades que se vayan a hacer durante el curso.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Chamito813/A01026893_TC2008B"><strong>Ver la página inicial »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Chamito813/A01026893/Base de datos">Ver Carpeta de Base de Datos</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
