@@ -188,9 +188,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Samuel Acevedo  - [@samacesan_sam](https://twitter.com/samacesan_sam) - a01026893l@tec.mx
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Chamito813/A01026893_TC2008B](https://github.com/Chamito813/A01026893_TC2008B)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
