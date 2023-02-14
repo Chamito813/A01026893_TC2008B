@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Chamito813/A01026893_TC2008B">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="110" height="110">
   </a>
 
 <h3 align="center">Construcción de software y toma de decisiones</h3>
@@ -74,7 +74,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del proyecto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
