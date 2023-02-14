@@ -188,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Samuel Acevedo  - [@samacesan_sam](https://twitter.com/samacesan_sam) - a01026893l@tec.mx
+Samuel Acevedo  - [@samacesan_sam](https://twitter.com/samacesan_sam) - a01026893@tec.mx
 
 Project Link: [https://github.com/Chamito813/A01026893_TC2008B](https://github.com/Chamito813/A01026893_TC2008B)
 
