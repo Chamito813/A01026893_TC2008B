@@ -35,11 +35,11 @@
     <a href="https://github.com/Chamito813/A01026893_TC2008B"><strong>Ver la página inicial »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Chamito813/A01026893/BaseDeDatos">Ver Carpeta de Base de Datos</a>
+    <a href="https://github.com/Chamito813/A01026893_TC2008B/BaseDeDatos">Ver Carpeta de Base de Datos</a>
     ·
-    <a href="https://github.com/Chamito813/A01026893/IngDeSoftware">Ver Carpeta de Ingeniería de Software</a>
+    <a href="https://github.com/Chamito813/A01026893_TC2008B/IngDeSoftware">Ver Carpeta de Ingeniería de Software</a>
     ·
-    <a href="https://github.com/Chamito813/A01026893/Videojuegos">Request Feature</a>
+    <a href="https://github.com/Chamito813/A01026893_TC2008B/Videojuegos">Ver Carpeta de Videojuegos</a>
   </p>
 </div>
 
