@@ -1,3 +1,5 @@
+# Samuel Acevedo - A01026893 - Tarea Algebra Relacional 
+
 ## Se dispone de una Base de Datos RELACIONAL para un torneo internacional compuesto de diversas competencias. El esquema de la base de datos es el siguiente:
 
 • COMPETENCIA (NombreCompetencia: STRING, NumPtos: INTEGER, Tipo: STRING)
