@@ -12,6 +12,8 @@ using UnityEngine;
 public class BallIn : MonoBehaviour
 {
     [SerializeField] Score scoreObj;
+    [SerializeField] AudioSource scoreSoundEffect;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -22,5 +24,8 @@ public class BallIn : MonoBehaviour
     void OnTriggerEnter2D()
     {
         scoreObj.AddPoints(1);
+        scoreSoundEffect.Play();
     }
+
+    
 }
